@@ -12,7 +12,7 @@ This repository is structured into several directories, each corresponding to on
    - **Objective:** Explore how a linear regression model can be used to predict real estate prices effectively.
    - **Techniques Used:** Linear regression analysis, data preprocessing, and model validation.
 
-- **TP 5 - Decision Trees, Random Forests, and Ensemble Learning**  
+- **Decision Trees, Random Forests, and Ensemble Learning**  
    - **Objective:** Understand and implement decision trees and random forests to enhance prediction models through ensemble techniques.
    - **Centered On:** Improving model accuracy by integrating multiple learning models.
 
